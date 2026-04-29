@@ -1,0 +1,45 @@
+contact:
+  name: "Perry T. Platypus"
+  city_and_state: "Danville, USA"
+  telephone: "+1 (980) 567-8910"
+  email: "perry007@owca.gov"
+
+summary: > 
+  Dedicated undercover operative with dual role as 
+  family pet and secret agent. Expert in stealth, 
+  reconnaissance, hand-to-hand combat, gadget use, 
+  and covert problem-solving. Reliable, disciplined, 
+  and quick-thinking.
+
+education:
+  - institute: "Massachussets Institute of Technology"
+    description: "B.S. in Applied Mischief Engineering"
+  - institute: "Carnegie Mellon"
+    description: "Ph.D. in Advanced Stealth"
+
+experience:
+  - job: "Lead Infiltration Specialist, OWCA"
+    date-start: "Jan 2015"
+    date-end: "Present"
+    accomplishments:
+      - "Supervised covert missions"
+      - "Neutralized villainous plots"
+      - "Maintained impeccable fur upkeep under pressure"
+  - job: "Junior Lawn Supervisor, Flynn-Fletcher Household"
+    date-start: "Jun 2010"
+    date-end: "Dec 2014"
+    accomplishments:
+      - "Responsible for perimiter surveillance"
+      - "hole-digging logisitics"
+      - "timely nap scheduling between patrols"
+
+certifications:
+  - description: "Advanced Platypus Combat certification"
+    date: "Sept 2015"
+  - description: "Quantum Snack Retrieval Specialist"
+    date: "Jan 2018"
+
+skills:
+  - "Reverse‑Psychology Interrogation: Confuses villains into confessing by underwhelming them"
+  - "Acoustic Whistle Translation: Fluent in 3 varieties of villainous grunting and one squeaky toaster dialect"
+  - "Gadget MacGyvering: Builds complex devices from lawn chairs, rubber bands, and unclaimed socks"

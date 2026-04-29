@@ -1,0 +1,25 @@
+# Generated PDFs
+output/*.pdf
+
+# Tests
+tests/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*~
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+*.aux
+
+# Typst-specific (if any)
+.typst/
