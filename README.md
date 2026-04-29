@@ -7,7 +7,7 @@
 A simple generative resume using Typst, YAML, and HTML in order to generate a clean, minimal resume on-the-fly.
 
 ## Motivation
-Creating a good resume is tiring enough as it is, particularly when casting a wide net. Typesetting applications are wonderful, but tedious for living documents. This is an attempt at making generating tailored resumes much simpler by storing the core data in a `YAML` file, rather than directly in the document's source code. Typst (and probably $\LaTeX$ also) is capable of doing this. Additionally, passing ~YAML~ files to AI agents for proofreading and any other tasks that may suit your imagination becomes much easier 😉.  Finally, I've tested the generated PDFs with resume a few scanning tools, and it seems to perform well extracting the information automatically, which is becoming increasingly important as AI becomes more prevalent at pre-filtering. I hope to put the tool to good use and wish everyone else equally happy trails! Feel free to share and contribute, or don't. 
+Creating a good resume is tiring enough as it is, particularly when casting a wide net. Typesetting applications are wonderful, but tedious for living documents. This is an attempt at making generating tailored resumes much simpler by storing the core data in a `YAML` file, rather than directly in the document's source code. Typst (and probably $\LaTeX$ also) is capable of doing this. Additionally, passing `YAML` files to AI agents for proofreading and any other tasks that may suit your imagination becomes much easier 😉.  Finally, I've tested the generated PDFs with resume a few scanning tools, and it seems to perform well extracting the information automatically, which is becoming increasingly important as AI becomes more prevalent at pre-filtering. I hope to put the tool to good use and wish everyone else equally happy trails! Feel free to share and contribute, or don't. 
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ If you prefer to work locally, you'll need the [Typst CLI](https://github.com/ty
 1.  **Clone the Repository**:
     ```bash
     git clone https://github.com/allhailthetail/auto-resume.git
-    cd basic-resume
+    cd auto-resume
     ```
 2.  **Install Fonts**: This resume uses [Fira Sans](https://fonts.google.com/specimen/Fira+Sans). Ensure it is installed on your system or placed in a directory Typst can access.
 3.  **Compile**:
