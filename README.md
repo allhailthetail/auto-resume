@@ -26,7 +26,7 @@ If you prefer to work locally, you'll need the [Typst CLI](https://github.com/ty
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/basic-resume.git
+    git clone https://github.com/allhailthetail/auto-resume.git
     cd basic-resume
     ```
 2.  **Install Fonts**: This resume uses [Fira Sans](https://fonts.google.com/specimen/Fira+Sans). Ensure it is installed on your system or placed in a directory Typst can access.
